@@ -1,7 +1,7 @@
-Hi, I’m @aayushx402
-I’m interested in tweaking configs files and making them user friendly
-I’m currently learning rust basis
-Here's my sway wm config's 
+-Hi, I’m @aayushx402
+-I’m interested in tweaking configs files and making them user friendly
+-I’m currently learning rust basis
+-Here's my sway wm config's 
 
 <!---
 aayushx402/aayushx402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
