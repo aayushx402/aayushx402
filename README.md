@@ -3,7 +3,8 @@
 
 ![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushx402&show_icons=true&bg_color=00000000)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=github-readme-md)](https://github.com/aayushx402/github-readme-md)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/aayushx402/bbfce31e0217a3689c8d961a356cb10d/)
+
 
 <!---
 aayushx402/aayushx402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
