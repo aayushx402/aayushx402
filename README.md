@@ -1,3 +1,5 @@
+<a href=”https://www.instagram.com/aayushxvf/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/images/main/images/instagram.svg" alt=”icon | Instagram” width=”21px”/></a>
+
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)  ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 
 
