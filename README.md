@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushx402&layout=compact&bg_color=00000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushx402&langs_count=8)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aayushx402)](https://github.com/aayushx402/github-readme-stats)
 
 
 <!---
