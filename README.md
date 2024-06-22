@@ -8,7 +8,7 @@
 
 
 <a href="https://github.com/aayushx402/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=sway" />
 </a>
 <a href="https://github.com/aayushx402/sway">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=sway" />
