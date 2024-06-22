@@ -30,7 +30,8 @@ I love the entire process of configuring linux. I love the challenge of finding 
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&color=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
