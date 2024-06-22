@@ -12,14 +12,14 @@
 </a>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">aayush</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm part time coder at rust 💻, Photographer 📸
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I love the entire process of configuring linux. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me:
 
@@ -29,29 +29,24 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
+- My new projects
+- My linux config
 - My next blog
-- My CSS skill
+- My Rust Skill
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
-- Firebase
-- React Context API
+- 📱 Rust
+- HTML
 - Styled Components  
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=react&color=61DAFB)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </br>
 
@@ -69,20 +64,15 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-## 📝 Latest Blog Posts
 
-- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
-- [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
-- [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
-- [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aayushx402)](https://github.com/aayushx402)
+![Aayush's GitHub](https://github-readme-stats.vercel.app/api?username=aayushx402&show_icons=true&bg_color=00000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushx402&layout=compact)](https://github.com/aayushx402)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=aayushx402.aayushx402)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushx402&layout=compact&bg_color=00000000)
+
 
 <!---
 aayushx402/aayushx402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
