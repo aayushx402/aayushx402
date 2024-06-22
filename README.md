@@ -11,8 +11,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=sway&bg_color=00000000" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=sway)](https://github.com/aayushx402/sway)
-
 <!---
 aayushx402/aayushx402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
