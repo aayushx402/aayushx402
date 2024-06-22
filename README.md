@@ -1,5 +1,5 @@
 <h3 align="center">
-Hi there, I'm <a href="https:/www.reddit.com/aayush-le/" target="_blank" rel="noreferrer">Aayush</a> 👋
+Hi there, I'm <a href="https:/www.reddit.com/aayush-le/">Aayush</a> 👋
 </h3>
 
 <h2 align="center">
