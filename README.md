@@ -1,5 +1,5 @@
 <h3 align="center">
-Hi there, I'm <a href="https:/www.reddit.com/aayush-le/" target="_blank" rel="noreferrer">aayush</a> 👋
+Hi there, I'm <a href="https:/www.reddit.com/aayush-le/" target="_blank" rel="noreferrer">Aayush</a> 👋
 </h3>
 
 <h2 align="center">
@@ -23,7 +23,7 @@ I love the entire process of configuring linux. I love the challenge of finding 
 
 ## 🌱 I'm currently learning
 
-- 📱 Rust
+- Rust
 - Linux
 - Styled Components  
 
