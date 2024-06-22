@@ -6,8 +6,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushx402&layout=compact&bg_color=00000000)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aayushx402)](https://github.com/aayushx402/github-readme-stats)
 
+<a href="https://github.com/aayushx402/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aayushx402" />
+</a>
+<a href="https://github.com/aayushx402/sway">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushx402&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!---
 aayushx402/aayushx402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
