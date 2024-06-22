@@ -16,10 +16,10 @@ Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">
 </h3>
 
 <h2 align="center">
-I'm part time coder at rust 💻, Photographer 📸
+I'm part time coder at rust 💻, Photographer 📸 . Linux User $
 </h2> 
 
-I love the entire process of configuring linux. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I love the entire process of configuring linux. I love the challenge of finding problems and spending time to meet new people.
 
 ### 🤝 Connect with me:
 
@@ -37,7 +37,7 @@ I love the entire process of configuring linux. I love the challenge of finding 
 ## 🌱 I'm currently learning
 
 - 📱 Rust
-- HTML
+- Linux
 - Styled Components  
 
 ## 💼 Technical Skills
