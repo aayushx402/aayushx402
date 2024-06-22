@@ -3,7 +3,7 @@
 
 ![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushx402&show_icons=true&bg_color=00000000)
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/aayushx402/bbfce31e0217a3689c8d961a356cb10d/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushx402)](https://github.com/aayushx402/github-readme-stats)
 
 
 <!---
