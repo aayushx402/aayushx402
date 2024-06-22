@@ -12,7 +12,6 @@
 </a>
 
 
-[![Aayush's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aayushx&bg_color=00000000)](https://github.com/aayushx402/sway)
 
 
 
