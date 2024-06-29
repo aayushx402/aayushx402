@@ -62,6 +62,12 @@ I love the entire process of configuring linux. I love the challenge of finding 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 
+📫 How to reach me:
+-Reddit : https://www.reddit.com/user/aayush-le/
+-Discord Server : https://discord.gg/Qg8chAeJmZ
+-Instagram : https://www.instagram.com/aayushxvf/
+
+
 <!---
 aayushx402/aayushx402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
