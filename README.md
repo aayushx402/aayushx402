@@ -22,20 +22,7 @@ I love the entire process of configuring linux. I love the challenge of finding 
 - My linux config
 - My next blog
 - My Rust Skill
-## 📈 GitHub Stats 
 
-![Aayush's GitHub](https://github-readme-stats.vercel.app/api?username=aayushx402&show_icons=true&bg_color=00000000)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushx402&layout=compact&bg_color=00000000)
-
-<a href="https://github.com/aayushx402/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=sway&bg_color=00000000" />
-</a>
-
-<a href="https://github.com/aayushx402/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=Rust-practice&bg_color=00000000" />
-</a>
 
 ## 👷 Check out what I'm currently working on
 - <a href="https://github.com/aayushx402/sway">Sway-Config</a> - My Sway Config - Customized Nord Waybar
@@ -74,6 +61,20 @@ I love the entire process of configuring linux. I love the challenge of finding 
 - Discord Server : https://discord.gg/Qg8chAeJmZ
 - Instagram : https://www.instagram.com/aayushxvf/
 
+## 📈 GitHub Stats 
+
+![Aayush's GitHub](https://github-readme-stats.vercel.app/api?username=aayushx402&show_icons=true&bg_color=00000000)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushx402&layout=compact&bg_color=00000000)
+
+<a href="https://github.com/aayushx402/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=sway&bg_color=00000000" />
+</a>
+
+<a href="https://github.com/aayushx402/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=Rust-practice&bg_color=00000000" />
+</a>
 
 <!---
 aayushx402/aayushx402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
