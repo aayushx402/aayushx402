@@ -21,10 +21,7 @@ I love the entire process of configuring linux. I love the challenge of finding 
 - My linux config
 - My next blog
 - My Rust Skill
-
-- 
-
-  ## 📈 GitHub Stats 
+## 📈 GitHub Stats 
 
 ![Aayush's GitHub](https://github-readme-stats.vercel.app/api?username=aayushx402&show_icons=true&bg_color=00000000)
 
