@@ -56,7 +56,7 @@ I love the entire process of configuring linux. I love the challenge of finding 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushx402&layout=compact&bg_color=00000000)
 
 <a href="https://github.com/aayushx402/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=sway&bg_color=00000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=sway&Rust-practice&bg_color=00000000" />
 </a>
 
 
