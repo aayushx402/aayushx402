@@ -37,8 +37,8 @@ I love the entire process of configuring linux. I love the challenge of finding 
 </a>
 
 ## 👷 Check out what I'm currently working on
-- github.com/aayushx402/sway - My Sway Config - Customized Nord Waybar
-- github.com/aayushx402/Rust-practice - Learning Rust - Basic Rust Base
+- <a href="https://github.com/aayushx402/sway">Sway-Config</a> - My Sway Config - Customized Nord Waybar
+- <a href="https://github.com/aayushx402/Rust-practice">Rust-Learning</a> - Learning Rust - Basic Rust Base
 
 
 ## 🌱 I'm currently learning
