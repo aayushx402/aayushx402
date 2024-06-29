@@ -8,6 +8,22 @@ I'm part time coder at rust 💻, Photographer 📷, Linux User 🖥️
 
 I love the entire process of configuring linux. I love the challenge of finding problems and spending time to meet new people.
 
+
+## 📈 GitHub Stats 
+
+![Aayush's GitHub](https://github-readme-stats.vercel.app/api?username=aayushx402&show_icons=true&bg_color=00000000)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushx402&layout=compact&bg_color=00000000)
+
+<a href="https://github.com/aayushx402/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=sway&bg_color=00000000" />
+</a>
+
+<a href="https://github.com/aayushx402/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=Rust-practice&bg_color=00000000" />
+</a>
+
 ### 🤝 Connect with me:
 
 <a href="https://instagram.com/aayushxvf"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Aa yush | Instagram" width="21px"/></a>
