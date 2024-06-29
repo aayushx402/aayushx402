@@ -36,6 +36,11 @@ I love the entire process of configuring linux. I love the challenge of finding 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=Rust-practice&bg_color=00000000" />
 </a>
 
+## 👷 Check out what I'm currently working on
+- https://github.com/aayushx402/sway - My Sway Config - Customized Nord Waybar
+- https://github.com/aayushx402/Rust-practice - Learning Rust - Basic Rust Base
+
+
 ## 🌱 I'm currently learning
 
 - Rust
