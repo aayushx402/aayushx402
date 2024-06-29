@@ -57,9 +57,9 @@ I love the entire process of configuring linux. I love the challenge of finding 
 
 ## 📫 How to reach me:
 
-- Reddit : https://www.reddit.com/user/aayush-le/
-- Discord Server : https://discord.gg/Qg8chAeJmZ
-- Instagram : https://www.instagram.com/aayushxvf/
+- <a href="https://www.reddit.com/user/aayush-le/">Reddit</a>
+- <a href="https://discord.gg/Qg8chAeJmZ">Discord</a>
+- <a href="https://www.instagram.com/aayushxvf/">Instagram</a>
 
 ## 📈 GitHub Stats 
 
