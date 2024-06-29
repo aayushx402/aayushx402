@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/ChrisTitusTech/nord-background/blob/main/54.png" alt="my banner"></a>
+</p>
+
 <h3 align="center">
 Hi there, I'm <a href="https://www.reddit.com/user/aayush-le/">Aayush</a> 👋
 </h3>
