@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://www.reddit.com/user/aayush-le/">Aayush</a> 👋
 </h3>
 
 <h2 align="center">
-I'm part time coder at Rust 💻, Photographer 📷, Linux User 🖥️
+I'm part time coder at Rust 👨‍💻, Photographer 📷, Linux User 🖥️
 </h2> 
 
 I love the entire process of configuring linux. I love the challenge of finding problems and spending time to meet new people.
