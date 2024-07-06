@@ -50,7 +50,7 @@ I love the entire process of configuring linux. I love the challenge of finding 
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-Shell-informational?style=flat&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/Style-Shell-informational?style=flat&logo=CSS3&color=00FF00)
 
 
 </br>
