@@ -65,8 +65,7 @@ I love the entire process of configuring linux. I love the challenge of finding 
 - <a href="https://www.reddit.com/user/aayush-le/">Reddit</a> - @aayush-le
 - <a href="https://discord.gg/Qg8chAeJmZ">Discord</a> - @sheron_x
 - <a href="https://www.instagram.com/aayushxvf/">Instagram</a> - @aayushxvf
-- <a href="https://facebook.com/aayushchalese/">Facebook</a> - @aayushchalese
-
+  
 ## 📈 GitHub Stats 
 
 ![Aayush's GitHub](https://github-readme-stats.vercel.app/api?username=aayushx402&show_icons=true&bg_color=00000000)
