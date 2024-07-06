@@ -82,7 +82,7 @@ I love the entire process of configuring linux. I love the challenge of finding 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=Rust-practice&bg_color=00000000" />
 </a>
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=aayushx402.aayushx402)](https://www.yushi.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=aayushx402.aayushx402)]
 
 <a href="https://github.com/aayushx402/Log-In">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=Log-In&bg_color=00000000" />
