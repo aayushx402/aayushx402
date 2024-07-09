@@ -46,7 +46,7 @@ I love the entire process of configuring linux. I love the challenge of finding 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-Shell-informational?style=flat&logo=CSS3&color=00FF00)
-![](https://img.shields.io/badge/Vim-Script-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Vim-Script-informational?style=flat&logo=HTML5&color=181717)
 
 </br>
 
