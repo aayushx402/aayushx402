@@ -82,10 +82,6 @@ I love the entire process of configuring linux. I love the challenge of finding 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=Rust-practice&bg_color=00000000" />
 </a>
 
-<a href="https://github.com/aayushx402/Log-In">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=Log-In&bg_color=00000000" />
-</a>
-
 <a href="https://github.com/aayushx402/MyVim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=MyVim&bg_color=00000000" />
 </a>
