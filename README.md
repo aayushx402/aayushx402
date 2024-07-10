@@ -29,9 +29,10 @@ I love the entire process of configuring linux. I love the challenge of finding 
 
 
 ## 👷 Check out what I'm currently working on
+- <a href="https://github.com/aayushx402/linux-project">Linux-Project</a> - Linux Toolbox Configs
 - <a href="https://github.com/aayushx402/sway">Sway-Config</a> - My Sway Config - Customized Nord Waybar-Theme
 - <a href="https://github.com/aayushx402/Rust-practice">Rust-Learning</a> - Learning Rust - Basic Rust-Base
-- <a href="https://github.com/aayushx402/linux-project">linux-project</a> - Linux Toolbox Configs
+
 
 
 ## 🌱 I'm currently learning
