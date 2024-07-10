@@ -80,6 +80,10 @@ I love the entire process of configuring linux. I love the challenge of finding 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=sway&bg_color=00000000" />
 </a>
 
+<a href="https://github.com/aayushx402/linux-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=linux-project&bg_color=00000000" />
+</a>
+
 <a href="https://github.com/aayushx402/Rust-practice">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=Rust-practice&bg_color=00000000" />
 </a>
@@ -88,9 +92,7 @@ I love the entire process of configuring linux. I love the challenge of finding 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=MyVim&bg_color=00000000" />
 </a>
 
-<a href="https://github.com/aayushx402/linux-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=linux-project&bg_color=00000000" />
-</a>
+
 
 ##
 
