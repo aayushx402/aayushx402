@@ -25,7 +25,7 @@ I love the entire process of configuring linux. I love the challenge of finding 
 - My new projects
 - My linux config
 - My next blog
-- My Rust Skill
+- My rust skill
 
 
 ## 👷 Check out what I'm currently working on
