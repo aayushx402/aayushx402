@@ -68,6 +68,7 @@ I love the entire process of configuring linux. I love the challenge of finding 
 - <a href="https://www.reddit.com/user/aayush-le/">Reddit</a> - @aayush-le
 - <a href="https://discord.gg/Qg8chAeJmZ">Discord</a> - @sheron_x
 - <a href="https://www.instagram.com/aayushxvf/">Instagram</a> - @aayushxvf
+- <a href="http://chalisehari.com.np">Web</a>
   
 ## 📈 GitHub Stats 
 
