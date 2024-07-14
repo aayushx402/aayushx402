@@ -15,8 +15,6 @@ I love the entire process of configuring linux. I love the challenge of finding 
 ### GitHub Stats
 
 <p align="left"><img src="https://raw.githubusercontent.com/aayushx402/aayushx402/main/github-metrics.svg" /></p>
-
-
 ### 🤝 Connect with me:
 
 <a href="https://instagram.com/aayushxvf"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Aa yush | Instagram" width="21px"/></a>
