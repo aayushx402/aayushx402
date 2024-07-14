@@ -12,6 +12,10 @@ I'm part time coder at Rust 👨‍💻, Photographer 📷, Linux User 🖥️
 
 I love the entire process of configuring linux. I love the challenge of finding problems and spending time to meet new people.
 
+### GitHub Stats
+
+<p align="left"><img src="https://raw.githubusercontent.com/aayushx402/aayushx402/main/github-metrics.svg" /></p>
+
 
 ### 🤝 Connect with me:
 
