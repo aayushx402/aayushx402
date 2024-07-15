@@ -2342,7 +2342,7 @@
                         <h3>Projects activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">winutil</span>
+                                <span class="name">Vim Config</span>
                                 <div class="bar" style="width: 30.936000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">39%</span>
                             </div>
@@ -2352,7 +2352,7 @@
                                 <span class="value">19%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">dwm-titus</span>
+                                <span class="name">rust</span>
                                 <div class="bar" style="width: 8.424%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">11%</span>
                             </div>
@@ -2362,7 +2362,7 @@
                                 <span class="value">9%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">winoneshot</span>
+                                <span class="name">toolbox</span>
                                 <div class="bar" style="width: 3.304%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
@@ -2372,7 +2372,7 @@
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">PowerShell</span>
+                                <span class="name">Rust</span>
                                 <div class="bar" style="width: 19.240000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">24%</span>
                             </div>
@@ -2424,12 +2424,12 @@
                         <h3>Operating systems</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">Windows</span>
+                                <span class="name">Linux</span>
                                 <div class="bar" style="width: 51.711999999999996%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">65%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Linux</span>
+                                <span class="name">Windows</span>
                                 <div class="bar" style="width: 28.287999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">35%</span>
                             </div>
