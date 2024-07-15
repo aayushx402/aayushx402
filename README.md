@@ -75,9 +75,6 @@ I love the entire process of configuring linux. I love the challenge of finding 
   
 ## 📈 GitHub Stats 
 
-![Aayush's GitHub](https://github-readme-stats.vercel.app/api?username=aayushx402&show_icons=true&bg_color=00000000)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushx402&layout=compact&bg_color=00000000)
 
 <a href="https://github.com/aayushx402/sway">
