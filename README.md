@@ -10,7 +10,7 @@ Hey, I'm <a href="https://chalisehari.com.np">Aayush</a> 👋
 I'm part time coder at Rust 👨‍💻, Photographer 📷, Linux User 🖥️
 </h2> 
 
-I love the entire process of configuring linux. I love the challenge of finding problems and spending time to meet new people.
+I am deeply passionate about the intricate art of configuring Linux. The challenge of troubleshooting and the journey of learning through interactions with the vibrant Linux community are experiences I truly cherish. Each moment spent enhancing and personalizing my Linux setup fills me with a sense of accomplishment and connection to a larger, thriving ecosystem.
 
 ### Socials
 
