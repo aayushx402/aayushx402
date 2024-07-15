@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://instagram.com/aayushxvf/" target="_blank" rel="noreferrer"><img src="https://github.com/aayushx402/Linux-Background/blob/main/linuxbanner-1-pyio3nmyod6zxhib1p81vjwow3z3qpbd3nv4u5yjd4.jpg" alt="my banner"></a>
+  <a href="https://chalisehari.com.np" target="_blank" rel="noreferrer"><img src="https://github.com/aayushx402/Linux-Background/blob/main/linuxbanner-1-pyio3nmyod6zxhib1p81vjwow3z3qpbd3nv4u5yjd4.jpg" alt="my banner"></a>
 </p>
 
 <h3 align="center">
