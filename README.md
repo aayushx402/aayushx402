@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.reddit.com/user/aayush-le/">Aayush</a> 👋
+Hey, I'm <a href="https://chalisehari.com.np">Aayush</a> 👋
 </h3>
 
 <h2 align="center">
