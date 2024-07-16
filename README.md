@@ -25,24 +25,19 @@ Hey, I'm <a href="https://chalisehari.com.np">Aayush</a> 👋
 <p align="left"><img src="https://raw.githubusercontent.com/aayushx402/aayushx402/main/github-metrics.svg" /></p>
 
 ## 🔭 I'm currently working on
+- 🚀 My new projects
+- 🖥️ My Linux config
+- 🦀 My Rust skill
 
-- My new projects
-- My linux config
-- My rust skill
-
-
-## 👷 Check out what I'm currently working on
-- <a href="https://github.com/aayushx402/linux-project">Linux-Project</a> - Linux Toolbox
-- <a href="https://github.com/aayushx402/sway">Sway-Config</a> - My Sway Config - Customized Nord Waybar-Theme
-- <a href="https://github.com/aayushx402/Rust-practice">Rust-Learning</a> - Learning Rust - Basic Rust-Base
-
-
+## 👩‍💻 Check out what I'm currently working on
+- [📦 Linux-Project](https://github.com/aayushx402/linux-project) - Linux Toolbox
+- [🎨 Sway-Config](https://github.com/aayushx402/sway) - My Sway Config - Customized Nord Waybar-Theme
+- [📚 Rust-Learning](https://github.com/aayushx402/Rust-practice) - Learning Rust - Basic Rust-Base
 
 ## 🌱 I'm currently learning
-
-- Rust
-- Linux
-- Styled Components  
+- 🦀 Rust
+- 🐧 Linux
+- 💅 Styled Components 
 
 ## 💼 Technical Skills
 
