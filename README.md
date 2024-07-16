@@ -61,13 +61,12 @@ Hey, I'm <a href="https://chalisehari.com.np">Aayush</a> 👋
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## 📬 How to reach me:
+- [👾 Reddit](https://www.reddit.com/user/aayush-le)
+- [💬 Discord](https://discord.gg/Qg8chAeJmZ)
+- [📸 Instagram](https://www.instagram.com/aayushxvf)
+- [🌐 Website](https://chalisehari.com.np)
 
-## 📫 How to reach me:
-
-- <a href="https://www.reddit.com/user/aayush-le/">Reddit</a>
-- <a href="https://discord.gg/Qg8chAeJmZ">Discord</a>
-- <a href="https://www.instagram.com/aayushxvf/">Instagram</a>
-- <a href="https://chalisehari.com.np">Website</a>
 
 ### 🤝 Connect with me:
 
