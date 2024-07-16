@@ -95,11 +95,6 @@ Hey, I'm <a href="https://chalisehari.com.np">Aayush</a> 👋
 
 
 
-##
-
-![](https://img.shields.io/badge/Visitors-161-informational?style=flat&logo=Visitors&color=61DAFB)
-
-
 <!---
 aayushx402/aayushx402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
