@@ -87,11 +87,11 @@ Hey, I'm <a href="https://chalisehari.com.np">Aayush</a> 👋
 
 ## Profile Views
 
-![Profile views](https://komarev.com/ghpvc/?username=aayushx402&color=blue)
+[![Profile Views](https://img.shields.io/badge/Profile%20Views-23,380-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushx402)
 
 ## Follow Me
 
-[![Follow on Instagram](https://img.shields.io/badge/Follow-%40aayushchalise-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aayushxvf)
+[![Follow on Instagram](https://img.shields.io/badge/Follow-%40aayushxvf-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aayushxvf)
 
 
 
