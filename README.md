@@ -87,7 +87,7 @@ Hey, I'm <a href="https://chalisehari.com.np">Aayush</a> 👋
 
 ## Profile Views
 
-[![Profile Views](https://img.shields.io/badge/Profile%20Views-23,380-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushx402)
+[![Profile Views](https://img.shields.io/badge/Profile%20Views-300-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushx402)
 
 ## Follow Me
 
