@@ -58,6 +58,12 @@ Hey, I'm <a href="https://chalisehari.com.np">Aayush</a> 👋
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+### 🤝 Connect with me:
+
+<a href="https://instagram.com/aayushxvf"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Aa yush | Instagram" width="21px"/></a>
+<a href="www.linkedin.com/in/aayushchalese/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Aa Yush | LinkedIn" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 📫 How to reach me:
 
@@ -86,12 +92,7 @@ Hey, I'm <a href="https://chalisehari.com.np">Aayush</a> 👋
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=MyVim&bg_color=00000000" />
 </a>
 
-### 🤝 Connect with me:
 
-<a href="https://instagram.com/aayushxvf"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Aa yush | Instagram" width="21px"/></a>
-<a href="www.linkedin.com/in/aayushchalese/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Aa Yush | LinkedIn" width="21px"/></a>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 
 ##
