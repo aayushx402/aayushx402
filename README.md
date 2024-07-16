@@ -9,6 +9,7 @@ Hey, I'm <a href="https://chalisehari.com.np">Aayush</a> 👋
 ## Support:
 
 [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/aayushchalise)
+[![PayPal](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png)](https://www.paypal.com/mep/dashboard)
 
 
 ### Socials
