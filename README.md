@@ -85,22 +85,13 @@ Hey, I'm <a href="https://chalisehari.com.np">Aayush</a> 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushx402&layout=compact&bg_color=00000000)
 
-<a href="https://github.com/aayushx402/sway">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=sway&bg_color=00000000" />
-</a>
+## Profile Views
 
-<a href="https://github.com/aayushx402/linux-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=linux-project&bg_color=00000000" />
-</a>
+![Profile views](https://komarev.com/ghpvc/?username=aayushx402&color=blue)
 
-<a href="https://github.com/aayushx402/Rust-practice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=Rust-practice&bg_color=00000000" />
-</a>
+## Follow Me
 
-<a href="https://github.com/aayushx402/MyVim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushx402&repo=MyVim&bg_color=00000000" />
-</a>
-
+[![Follow on Instagram](https://img.shields.io/badge/Follow-%40aayushchalise-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aayushxvf)
 
 
 
