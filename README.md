@@ -8,7 +8,7 @@ Hey, I'm <a href="https://chalisehari.com.np">Aayush</a> 👋
 
 ## Support:
 
-[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/aayushchalise)
+[![Buy me a tea](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/aayushchalise)
 
 
 ### Socials
