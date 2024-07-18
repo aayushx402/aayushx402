@@ -77,9 +77,9 @@ Hey, I'm <a href="https://chalisehari.com.np">Aayush</a> 👋
 
 ## 📊 GitHub Stats
 
-[![](https://raw.githubusercontent.com/aayushx402/aayushx402/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/aayushx402)
-[![](https://raw.githubusercontent.com/aayushx402/aayushx402/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/aayushx402)
-[![](https://raw.githubusercontent.com/aayushx402/aayushx402/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/aayushx402)
+[![](https://raw.githubusercontent.com/aayushx402/aayushx402/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/aayushx402)
+[![](https://raw.githubusercontent.com/aayushx402/aayushx402/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/aayushx402)
+[![](https://raw.githubusercontent.com/aayushx402/aayushx402/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/aayushx402)
 
 
 ## Profile Views
