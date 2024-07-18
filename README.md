@@ -71,11 +71,6 @@ Hey, I'm <a href="https://chalisehari.com.np">Aayush</a> 👋
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayushx402&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushx402&layout=compact&theme=radical)
-
-## 📊 GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayushx402&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aayushx402&theme=onedark)
