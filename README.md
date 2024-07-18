@@ -77,9 +77,11 @@ Hey, I'm <a href="https://chalisehari.com.np">Aayush</a> 👋
 
 ## 📊 GitHub Stats
 
-[![](https://raw.githubusercontent.com/aayushx402/aayushx402/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/aayushx402)
-[![](https://raw.githubusercontent.com/aayushx402/aayushx402/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/aayushx402)
-[![](https://raw.githubusercontent.com/aayushx402/aayushx402/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/aayushx402)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayushx402&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aayushx402&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayushx402&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aayushx402&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aayushx402&theme=onedark&utcOffset=8)
 
 
 ## Profile Views
