@@ -3,10 +3,6 @@
 </p>
 
 <h3 align="center">
-Hey, I'm <a href="https://chalisehari.com.np">Aayush</a> 👋
-</h3>
-
-<h3 align="center">
   <span style="font-size: 24px; font-weight: bold;">Hello there!</span> <br>
   I'm <a href="https://chalisehari.com.np" style="font-size: 24px; color: #61DAFB;">Aayush</a> 👋 <br>
   <span style="font-size: 18px; color: #888;">Welcome to my GitHub profile!</span>
