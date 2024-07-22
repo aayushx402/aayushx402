@@ -6,6 +6,23 @@
 Hey, I'm <a href="https://chalisehari.com.np">Aayush</a> 👋
 </h3>
 
+<h3 align="center">
+  <span style="font-size: 24px; font-weight: bold;">Hello there!</span> <br>
+  I'm <a href="https://chalisehari.com.np" style="font-size: 24px; color: #61DAFB;">Aayush</a> 👋 <br>
+  <span style="font-size: 18px; color: #888;">Welcome to my GitHub profile!</span>
+</h3>
+
+🚀 Linux Project
+<p align="center">
+  <a href="https://github.com/aayushx402/linux-project" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Check%20Out%20My%20Linux%20Project-Repo-61DAFB?style=for-the-badge&logo=github&logoColor=white" alt="Linux Project">
+  </a>
+</p>
+Overview
+This project is a customizable Linux setup script designed for Arch-based systems. It grabs and applies my personal configurations, including vimrc and plugins, and supports SwayWM. If SwayWM isn't present, it will automatically skip related configurations.
+
+
+
 ## Support:
 
 [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/aayushchalise)
