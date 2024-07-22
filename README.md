@@ -2,6 +2,13 @@
   <a href="https://chalisehari.com.np" target="_blank" rel="noreferrer"><img src="https://github.com/aayushx402/Linux-Background/blob/main/20240720_150436.png" alt="my banner"></a>
 </p>
 
+<p align="center">
+  <a href="https://chalisehari.com.np" target="_blank" rel="noreferrer">
+    <img src="https://github.com/aayushx402/Linux-Background/blob/main/20240720_150436.png" alt="my banner" width="800" height="200">
+  </a>
+</p>
+
+
 <h3 align="center">
   <span style="font-size: 24px; font-weight: bold;">Hello there!</span> <br>
   I'm <a href="https://chalisehari.com.np" style="font-size: 24px; color: #61DAFB;">Aayush</a> 👋 <br>
