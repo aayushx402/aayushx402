@@ -15,6 +15,7 @@
   </a>
 </p>
 Overview
+
 This project is a customizable Linux setup script designed for Arch-based systems. It grabs and applies my personal configurations, including vimrc and plugins, and supports SwayWM.
 
 
