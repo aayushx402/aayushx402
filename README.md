@@ -14,10 +14,22 @@
     <img src="https://img.shields.io/badge/Check%20Out%20My%20Linux%20Project-Repo-61DAFB?style=for-the-badge&logo=github&logoColor=white" alt="Linux Project">
   </a>
 </p>
-Overview
 
-This project is a customizable Linux setup script designed for Arch-based systems. It grabs and applies my personal configurations, including vimrc and plugins, and supports SwayWM.
+<h1>Customizable Linux Setup Script</h1>
 
+<p>This project provides a versatile setup script for Arch-based systems, designed to streamline your Linux configuration process.</p>
+
+<h2>Features</h2>
+<ul>
+    <li><strong>Personal Configurations</strong>: Applies my custom Vim configuration (<code>vimrc</code>) and plugins to enhance your editing environment.</li>
+    <li><strong>SwayWM Support</strong>: Seamlessly integrates with SwayWM for a smooth and modern window management experience.</li>
+    <li><strong>GRUB Theme Customization</strong>: Includes a script to change your GRUB theme to the visually appealing Catppuccin theme.</li>
+    <li><strong>Package Installation</strong>: Automates the installation of various useful packages to boost your system's functionality.</li>
+    <li><strong>Secure Browsers</strong>: Facilitates the installation of secure browsers like Firefox, Brave, and Thorium for safer web browsing.</li>
+</ul>
+
+<h2>Getting Started</h2>
+<p>To get started with this script, follow the instructions in the repository to apply your configurations and set up your system efficiently.</p>
 
 
 ## Support:
