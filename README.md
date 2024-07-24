@@ -15,21 +15,21 @@
   </a>
 </p>
 
-<h1>Customizable Linux Setup Script</h1>
+<h1 align="center">Customizable Linux Setup Script</h1>
 
-<p>This project provides a versatile setup script for Arch-based systems, designed to streamline your Linux configuration process.</p>
+<p align="center">Welcome to a versatile setup script designed for Arch-based systems. Effortlessly configure your Linux environment with my personal settings and additional features.</p>
 
-<h2>Features</h2>
+<h2>✨ Features</h2>
 <ul>
-    <li><strong>Personal Configurations</strong>: Applies my custom Vim configuration (<code>vimrc</code>) and plugins to enhance your editing environment.</li>
-    <li><strong>SwayWM Support</strong>: Seamlessly integrates with SwayWM for a smooth and modern window management experience.</li>
-    <li><strong>GRUB Theme Customization</strong>: Includes a script to change your GRUB theme to the visually appealing Catppuccin theme.</li>
-    <li><strong>Package Installation</strong>: Automates the installation of various useful packages to boost your system's functionality.</li>
-    <li><strong>Secure Browsers</strong>: Facilitates the installation of secure browsers like Firefox, Brave, and Thorium for safer web browsing.</li>
+    <li><strong>🔧 Personal Configurations:</strong> Automatically applies my custom Vim configuration (<code>vimrc</code>) and plugins to enhance your editing experience.</li>
+    <li><strong>🪟 SwayWM Support:</strong> Integrates seamlessly with SwayWM for a smooth and modern window management experience.</li>
+    <li><strong>🎨 GRUB Theme Customization:</strong> Switch your GRUB theme to the elegant Catppuccin theme with a single script.</li>
+    <li><strong>📦 Package Installation:</strong> Installs a range of useful packages to boost your system's functionality and performance.</li>
+    <li><strong>🔒 Secure Browsers:</strong> Easy installation of secure browsers like Firefox, Brave, and Thorium for safer web browsing.</li>
 </ul>
 
-<h2>Getting Started</h2>
-<p>To get started with this script, follow the instructions in the repository to apply your configurations and set up your system efficiently.</p>
+<h2>🚀 Getting Started</h2>
+<p>Follow the instructions in the repository to quickly set up your system and apply your preferred configurations. Enjoy a streamlined and personalized Linux experience!</p>
 
 
 ## Support:
