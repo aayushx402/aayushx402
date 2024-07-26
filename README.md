@@ -57,24 +57,7 @@
 - 🖥️ **Optimizing My Linux Configuration:** Tuning my system for a smooth and efficient workflow.
 - 🦀 **Sharpening My Rust Skills:** Enhancing my knowledge and expertise in the Rust programming language.
 
-## 👩‍💻 Check Out What I'm Currently Working On
-
-- [📦 **Linux-Project**](https://github.com/aayushx402/linux-project)  
-  A versatile toolbox for enhancing your Linux experience.
-
-- [✨ **LinScript**](https://github.com/aayushx402/LinScript)
-  Sleek and efficient scripts to elevate your Linux setup.
- 
-- [🎨 **I3-Dotfiles**](https://github.com/aayushx402/i3-CatDotfiles)  
-  My i3 window manager configuration with a custom Catppuccin theme.
-
-- [🎨 **Sway-Dotfiles**](https://github.com/aayushx402/sway)  
-  Personal Sway configuration featuring a customized Nord Waybar theme.
-
-- [📚 **Rust-Learning**](https://github.com/aayushx402/Rust-practice)  
-  A repository for practicing Rust, focusing on foundational concepts and projects.
-
-  <h2>👩‍💻 Check Out What I'm Currently Working On</h2>
+<h2>👩‍💻 Check Out What I'm Currently Working On</h2>
 
 <ul>
   <li>
