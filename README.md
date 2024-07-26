@@ -50,20 +50,32 @@
 
 <p align="left"><img src="https://raw.githubusercontent.com/aayushx402/aayushx402/main/github-metrics.svg" /></p>
 
-## 🔭 I'm currently working on
-- 🚀 My new projects
-- 🖥️ My Linux config
-- 🦀 My Rust skill
+## 🔭 I'm Currently Working On
 
-## 👩‍💻 Check out what I'm currently working on
-- [📦 Linux-Project](https://github.com/aayushx402/linux-project) - Linux Toolbox
-- [🎨 Sway-Config](https://github.com/aayushx402/sway) - My Sway Config - Customized Nord Waybar-Theme
-- [📚 Rust-Learning](https://github.com/aayushx402/Rust-practice) - Learning Rust - Basic Rust-Base
+- 🚀 **Exploring New Projects:** Diving into innovative ideas and building exciting applications.
+- 🛠️ **Crafting My Dotfiles:** Personalizing my development environment for optimal productivity.
+- 🖥️ **Optimizing My Linux Configuration:** Tuning my system for a smooth and efficient workflow.
+- 🦀 **Sharpening My Rust Skills:** Enhancing my knowledge and expertise in the Rust programming language.
 
-## 🌱 I'm currently learning
-- 🦀 Rust
-- 🐧 Linux
-- 💅 Styled Components 
+## 👩‍💻 Check Out What I'm Currently Working On
+
+- [📦 **Linux-Project**](https://github.com/aayushx402/linux-project)  
+  A versatile toolbox for enhancing your Linux experience.
+
+- [🎨 **I3-Dotfiles**](https://github.com/aayushx402/i3-CatDotfiles)  
+  My i3 window manager configuration with a custom Catppuccin theme.
+
+- [🎨 **Sway-Dotfiles**](https://github.com/aayushx402/sway)  
+  Personal Sway configuration featuring a customized Nord Waybar theme.
+
+- [📚 **Rust-Learning**](https://github.com/aayushx402/Rust-practice)  
+  A repository for practicing Rust, focusing on foundational concepts and projects.
+
+## 🌱 I'm Currently Learning
+
+- 🦀 **Rust:** Exploring systems programming and building efficient applications with this powerful language.
+- 🐧 **Linux:** Deepening my understanding of the Linux operating system, command-line tools, and system administration.
+- 💅 **Styled Components:** Mastering CSS-in-JS techniques to create beautifully styled React components.
 
 ## 🧰 Technical Skills
 
