@@ -74,6 +74,32 @@
 - [📚 **Rust-Learning**](https://github.com/aayushx402/Rust-practice)  
   A repository for practicing Rust, focusing on foundational concepts and projects.
 
+  <h2>👩‍💻 Check Out What I'm Currently Working On</h2>
+
+<ul>
+  <li>
+    <a href="https://github.com/aayushx402/linux-project"><strong>📦 Linux-Project</strong></a><br>
+    A versatile toolbox for enhancing your Linux experience.
+  </li>
+  <li>
+    <a href="https://github.com/aayushx402/LinScript"><strong>✨ LinScript</strong></a><br>
+    Sleek and efficient scripts to elevate your Linux setup.
+  </li>
+  <li>
+    <a href="https://github.com/aayushx402/i3-CatDotfiles"><strong>🎨 I3-Dotfiles</strong></a><br>
+    My i3 window manager configuration with a custom Catppuccin theme.
+  </li>
+  <li>
+    <a href="https://github.com/aayushx402/sway"><strong>🎨 Sway-Dotfiles</strong></a><br>
+    Personal Sway configuration featuring a customized Nord Waybar theme.
+  </li>
+  <li>
+    <a href="https://github.com/aayushx402/Rust-practice"><strong>📚 Rust-Learning</strong></a><br>
+    A repository for practicing Rust, focusing on foundational concepts and projects.
+  </li>
+</ul>
+
+
 ## 🌱 I'm Currently Learning
 
 - 🦀 **Rust:** Exploring systems programming and building efficient applications with this powerful language.
