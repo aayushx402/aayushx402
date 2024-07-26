@@ -63,6 +63,7 @@
   A versatile toolbox for enhancing your Linux experience.
 
 - [✨ **LinScript**](https://github.com/aayushx402/LinScript)
+  
   Sleek and efficient scripts to elevate your Linux setup.
  
 - [🎨 **I3-Dotfiles**](https://github.com/aayushx402/i3-CatDotfiles)  
