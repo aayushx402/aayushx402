@@ -31,6 +31,13 @@
 <h2>🚀 Getting Started</h2>
 <p>Follow the instructions in the repository to quickly set up your system and apply your preferred configurations. Enjoy a streamlined and personalized Linux experience!</p>
 
+## 🌟 LinScript
+
+<p align="center">
+  <a href="https://github.com/aayushx402/LinScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Check%20Out%20LinScript-Repo-61DAFB?style=for-the-badge&logo=github&logoColor=white" alt="LinScript">
+  </a>
+</p>
 
 ## Support:
 
