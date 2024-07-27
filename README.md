@@ -39,6 +39,14 @@
   </a>
 </p>
 
+<p>Welcome to <strong>LinScript</strong> – your ultimate solution for a sleek and personalized Linux setup! With this script, you can effortlessly customize your themes, manage dotfiles, and enhance your desktop environment.</p>
+
+<h3>🚀 What’s New in Linux Project v0.2?</h3>
+<ul>
+    <li><strong>Enhanced Customization:</strong> Effortlessly personalize your themes and dotfiles with an improved setup process.</li>
+    <li><strong>Streamlined Installation:</strong> Simplified commands for quick and easy installation of SDDM themes and fonts.</li>
+</ul>
+
 ## Support:
 
 [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/aayushchalise)
