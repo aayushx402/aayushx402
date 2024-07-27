@@ -58,6 +58,11 @@
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=github&logoColor=white" alt="License">
 </p>
 <p align="center">
+  <a href="https://github.com/aayushx402/LinScript/releases/tag/0.2.0" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Release%20v0.2-ff69b4?style=for-the-badge" alt="Release v0.2">
+  </a>
+</p>
+<p align="center">
   Welcome to <strong>LinScript</strong> – your ultimate solution for a sleek and personalized Linux setup! With LinScript, effortlessly customize your themes, manage dotfiles, and enhance your desktop environment like a pro.
 </p>
 <h3>🚀 What’s New in LinScript v0.2?</h3>
