@@ -13,6 +13,8 @@
   <a href="https://github.com/aayushx402/linux-project" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Check%20Out%20My%20Linux%20Project-Repo-61DAFB?style=for-the-badge&logo=github&logoColor=white" alt="Linux Project">
   </a>
+    <a href="https://github.com/aayushx402/linux-project/releases/tag/v0.1.0" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Release%20v0.2-ff69b4?style=for-the-badge" alt="Release v0.1">
 </p>
 
 <h1 align="center">Customizable Linux Setup Script</h1>
