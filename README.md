@@ -33,6 +33,7 @@
 <h2>🚀 Getting Started</h2>
 <p>Follow the instructions in the repository to quickly set up your system and apply your preferred configurations. Enjoy a streamlined and personalized Linux experience!</p>
 
+
 ## 🌟 LinScript
 
 <p align="center">
