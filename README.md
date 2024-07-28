@@ -66,7 +66,7 @@
 **eSewa ID**: 9866561621
 
 <a href="https://esewa.com.np/#/make_payment/BALTXN/Fund%20Transfer">
-    <img src="https://github.com/aayushx402/Linux-Background/blob/main/eswa/rBAcKzRGTH2x9Y0LZHCw_S5R2gaB87eF24b9i.png" alt="eSewa" width="150" height="auto">
+    <img src="https://github.com/aayushx402/Linux-Background/blob/main/eswa/732-7320315_esewa-logo-hd-png-download-removebg-preview.png" alt="eSewa" width="150" height="auto">
 </a>
 
 
