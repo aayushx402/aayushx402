@@ -63,6 +63,15 @@
     <img src="https://github.com/aayushx402/Linux-Background/blob/main/eswa/732-7320315_esewa-logo-hd-png-download-removebg-preview.png" alt="eSewa" width="150" height="auto">
 </a>
 
+### eSewa Payment
+If you'd like to support my work, you can use the following eSewa ID:
+
+**<span style="color:#4CAF50; font-size:18px;">eSewa ID: 9866561621</span>**
+
+Click the logo below to proceed with the payment:
+<a href="https://esewa.com.np/#/make_payment/BALTXN/Fund%20Transfer/9866561621">
+    <img src="https://github.com/aayushx402/Linux-Background/blob/main/eswa/rBAcKzRGTH2x9Y0LZHCw_S5R2gaB87eF24b9i.png" alt="eSewa" width="150" height="auto">
+</a>
 
 ### Socials
 
