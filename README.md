@@ -59,7 +59,7 @@
 
 [![PayPal](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png)](https://www.paypal.com/mep/dashboard)
 
-### <img src="https://github.com/aayushx402/Linux-Background/blob/main/eswa/1200x600wa-removebg-preview.png" alt="eSewa" width="40" height="auto">eSewa Payment
+###<img src="https://github.com/aayushx402/Linux-Background/blob/main/eswa/1200x600wa-removebg-preview.png" alt="eSewa" width="40" height="auto">eSewa Payment
 
 If you'd like to support my work, you can use the following eSewa ID:
 
