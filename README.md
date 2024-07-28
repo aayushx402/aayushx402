@@ -59,6 +59,9 @@
 
 [![PayPal](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png)](https://www.paypal.com/mep/dashboard)
 
+[![eSewa](https://raw.githubusercontent.com/aayushx402/Linux-Background/main/eswa/200xNxlogo.png.pagespeed.ic.HZMmgKkviT.webp)](https://esewa.com.np/#/make_payment/BALTXN/Fund%20Transfer/9866561621)
+
+
 
 ### Socials
 
