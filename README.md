@@ -59,21 +59,19 @@
 
 [![PayPal](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png)](https://www.paypal.com/mep/dashboard)
 
+### eSewa Payment
+If you'd like to support my work, you can use the following eSewa ID:
+
 <a href="https://esewa.com.np/#/make_payment/BALTXN/Fund%20Transfer">
     <img src="https://github.com/aayushx402/Linux-Background/blob/main/eswa/732-7320315_esewa-logo-hd-png-download-removebg-preview.png" alt="eSewa" width="150" height="auto">
 </a>
 
 **<span style="color:#4CAF50; font-size:18px;">eSewa ID: 9866561621</span>**
 
-### eSewa Payment
-If you'd like to support my work, you can use the following eSewa ID:
-
-**<span style="color:#4CAF50; font-size:18px;">eSewa ID: 9866561621</span>**
-
-Click the logo below to proceed with the payment:
-<a href="https://esewa.com.np/#/make_payment/BALTXN/Fund%20Transfer">
-    <img src="https://github.com/aayushx402/Linux-Background/blob/main/eswa/rBAcKzRGTH2x9Y0LZHCw_S5R2gaB87eF24b9i.png" alt="eSewa" width="150" height="auto">
-</a>
+<div style="text-align: center; margin-top: 10px;">
+  <p style="font-size: 20px; color: #2c3e50; font-weight: bold;">
+    🌟 eSewa ID: <span style="color: #4CAF50;">9866561621</span> 🌟
+  </p>
 
 ## 💚 Support My Work on eSewa
 
