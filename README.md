@@ -68,26 +68,6 @@ If you'd like to support my work, you can use the following eSewa ID:
 
 **<span style="color:#4CAF50; font-size:18px;">eSewa ID: 9866561621</span>**
 
-<div style="text-align: center; margin-top: 10px;">
-  <p style="font-size: 20px; color: #2c3e50; font-weight: bold;">
-    🌟 eSewa ID: <span style="color: #4CAF50;">9866561621</span> 🌟
-  </p>
-
-## 💚 Support My Work on eSewa
-
-Looking to support my projects? Your contributions are greatly appreciated! You can easily send support via eSewa.
-
-<div style="text-align: center; margin-top: 10px;">
-  <p style="font-size: 20px; color: #2c3e50; font-weight: bold;">
-    🌟 eSewa ID: <span style="color: #4CAF50;">9866561621</span> 🌟
-  </p>
-  <a href="https://esewa.com.np/#/make_payment/BALTXN/Fund%20Transfer">
-    <img src="https://github.com/aayushx402/Linux-Background/blob/main/eswa/rBAcKzRGTH2x9Y0LZHCw_S5R2gaB87eF24b9i.png" alt="eSewa" width="120" style="border-radius: 10px;">
-  </a>
-</div>
-
-Feel free to click the logo above to make a contribution. Thank you for your support! 🙏
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/aayushx402" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/aayushxvf" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aayushchalese" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@aayushchalese" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
