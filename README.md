@@ -69,7 +69,6 @@ If you'd like to support my work, you can use the following eSewa ID:
 
 - 🦀 **Rust:** Exploring systems programming and building efficient applications with this powerful language.
 - 🐧 **Linux:** Deepening my understanding of the Linux operating system, command-line tools, and system administration.
-- 💅 **Styled Components:** Mastering CSS-in-JS techniques to create beautifully styled React components.
 
 ## 🧰 Technical Skills
 
