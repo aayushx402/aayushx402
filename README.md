@@ -88,12 +88,6 @@ If you'd like to support my work, you can use the following eSewa ID:
 - [📸 Instagram](https://www.instagram.com/aayushxvf)
 - [🌐 Website](https://chalisehari.com.np)
 
-## 🤝 Connect with me:
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aayushxvf)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayushchalese)
-
-- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
-
 ## 📊 GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayushx402&theme=react)
@@ -102,6 +96,11 @@ If you'd like to support my work, you can use the following eSewa ID:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aayushx402&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aayushx402&theme=react&utcOffset=8)
 
+## 🤝 Connect with me:
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aayushxvf)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayushchalese)
+
+- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 ## Profile Views
 
