@@ -8,51 +8,6 @@
   <span style="font-size: 18px; color: #888;">Welcome to my GitHub profile!</span>
 </h3>
 
-🚀 Linux Script 
-<p align="center">
-  <a href="https://github.com/aayushx402/linux-project" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Check%20Out%20My%20Linux%20Script-Repo-61DAFB?style=for-the-badge&logo=github&logoColor=white" alt="Linux Project">
-  </a>
-    <a href="https://github.com/aayushx402/linux-project/releases/tag/v0.1.0" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Version-0.1-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Version">
-</p>
-
-<h1 align="center">Customizable Linux Setup Script</h1>
-
-<p align="center">Welcome to a versatile setup script designed for Arch-based systems. Effortlessly configure your Linux environment with my personal settings and additional features.</p>
-
-<h2>✨ Features</h2>
-<ul>
-    <li><strong>🔧 Personal Configurations:</strong> Automatically applies my custom Vim configuration (<code>vimrc</code>) and plugins to enhance your editing experience.</li>
-    <li><strong>🪟 SwayWM Support:</strong> Integrates seamlessly with SwayWM for a smooth and modern window management experience.</li>
-    <li><strong>🎨 GRUB Theme Customization:</strong> Switch your GRUB theme to the elegant Catppuccin theme with a single script.</li>
-    <li><strong>📦 Package Installation:</strong> Installs a range of useful packages to boost your system's functionality and performance.</li>
-    <li><strong>🔒 Secure Browsers:</strong> Easy installation of secure browsers like Firefox, Brave, and Thorium for safer web browsing.</li>
-</ul>
-
-<h2>🚀 Getting Started</h2>
-<p>Follow the instructions in the repository to quickly set up your system and apply your preferred configurations. Enjoy a streamlined and personalized Linux experience!</p>
-
-
-## 🌟 LinScript
-
-<p align="center">
-  <a href="https://github.com/aayushx402/LinScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Check%20Out%20LinScript-Repo-61DAFB?style=for-the-badge&logo=github&logoColor=white" alt="LinScript">
-  </a>
-  <a href="https://github.com/aayushx402/LinScript/releases/tag/0.2.0" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Version-0.2-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Version">
-</p>
-
-<p>Welcome to <strong>LinScript</strong> – your ultimate solution for a sleek and personalized Linux setup! With this script, you can effortlessly customize your themes, manage dotfiles, and enhance your desktop environment.</p>
-
-<h3>🚀 What’s New in Linux Project v0.2?</h3>
-<ul>
-    <li><strong>Enhanced Customization:</strong> Effortlessly personalize your themes and dotfiles with an improved setup process.</li>
-    <li><strong>Streamlined Installation:</strong> Simplified commands for quick and easy installation of SDDM themes and fonts.</li>
-</ul>
-
-
 ## Support:
 
 [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/aayushchalise)
