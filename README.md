@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://chalisehari.com.np" target="_blank" rel="noreferrer"><img src="https://github.com/aayushx402/Linux-Background/blob/main/20240723_032519.png"></a>
+  <a href="https://chalisehari.com.np" target="_blank" rel="noreferrer"><img src="https://github.com/aayushx402/Linux-Background/blob/main/logo/20240729_233349.png"></a>
 </p>
 
 <h3 align="center">
