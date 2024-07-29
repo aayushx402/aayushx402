@@ -8,10 +8,10 @@
   <span style="font-size: 18px; color: #888;">Welcome to my GitHub profile!</span>
 </h3>
 
-🚀 Linux Project
+🚀 Linux Script 
 <p align="center">
   <a href="https://github.com/aayushx402/linux-project" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Check%20Out%20My%20Linux%20Project-Repo-61DAFB?style=for-the-badge&logo=github&logoColor=white" alt="Linux Project">
+    <img src="https://img.shields.io/badge/Check%20Out%20My%20Linux%20Script-Repo-61DAFB?style=for-the-badge&logo=github&logoColor=white" alt="Linux Project">
   </a>
     <a href="https://github.com/aayushx402/linux-project/releases/tag/v0.1.0" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Version-0.1-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Version">
