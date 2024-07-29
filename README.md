@@ -2,12 +2,6 @@
   <a href="https://chalisehari.com.np" target="_blank" rel="noreferrer"><img src="https://github.com/aayushx402/Linux-Background/blob/main/logo/20240729_233349.png"></a>
 </p>
 
-<h3 align="center">
-  <span style="font-size: 24px; font-weight: bold;">Hello there!</span> <br>
-  I'm <a href="https://chalisehari.com.np" style="font-size: 24px; color: #61DAFB;">Aayush</a> 👋 <br>
-  <span style="font-size: 18px; color: #888;">Welcome to my GitHub profile!</span>
-</h3>
-
 ## Support:
 
 [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/aayushchalise)
