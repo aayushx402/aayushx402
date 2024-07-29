@@ -96,16 +96,16 @@ If you'd like to support my work, you can use the following eSewa ID:
 
 ## 📊 GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayushx402&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aayushx402&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayushx402&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aayushx402&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aayushx402&theme=onedark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayushx402&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aayushx402&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayushx402&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aayushx402&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aayushx402&theme=react&utcOffset=8)
 
 
 ## Profile Views
 
-[![Profile Views](https://img.shields.io/badge/Profile%20Views-300-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushx402)
+[![Profile Views](https://img.shields.io/badge/Profile%20Views-267-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushx402)
 
 ## Follow Me
 
