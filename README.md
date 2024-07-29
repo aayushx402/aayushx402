@@ -83,10 +83,10 @@ If you'd like to support my work, you can use the following eSewa ID:
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ## 📬 How to reach me:
-- [👾 Reddit](https://www.reddit.com/user/aayush-le)
-- [💬 Discord](https://discord.gg/Qg8chAeJmZ)
-- [📸 Instagram](https://www.instagram.com/aayushxvf)
-- [🌐 Website](https://chalisehari.com.np)
+- [➵ Reddit](https://www.reddit.com/user/aayush-le)
+- [➵ Discord](https://discord.gg/Qg8chAeJmZ)
+- [➵ Instagram](https://www.instagram.com/aayushxvf)
+- [➵ Website](https://chalisehari.com.np)
 
 ## 📊 GitHub Stats
 
