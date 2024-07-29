@@ -2,13 +2,9 @@
   <a href="https://chalisehari.com.np" target="_blank" rel="noreferrer"><img src="https://github.com/aayushx402/aayushx402/blob/main/20240729_233349.png"></a>
 </p>
 
-<a href="https://www.twitch.tv/christitustech" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/christitustech?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=MOOD+STATUS" /></a>
-
 <a href="#" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/MOOD%20STATUS-off-0891b2?logo=mood&style=for-the-badge&labelColor=1c1917&label=MOOD+STATUS" />
 </a>
-
 
 ### Socials
 
