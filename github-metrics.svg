@@ -2415,7 +2415,7 @@
                             </div>
                             <div class="entry">
                                 <span class="name">Visual Studio</span>
-                                <div class="bar" style="width: 0.016%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 19.016%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">17%</span>
                             </div>
                         </div>
