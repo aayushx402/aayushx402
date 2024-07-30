@@ -4,9 +4,10 @@
 
 <p align="center">
   <a href="https://chalisehari.com.np" target="_blank" rel="noreferrer">
-    <img src="https://github.com/aayushx402/aayushx402/blob/main/20240729_233349.png" width="200" height="auto">
+    <img src="https://github.com/aayushx402/aayushx402/blob/main/20240729_233349.png" width="400" height="auto">
   </a>
 </p>
+
 
 
 <a href="https://hashb.in/#BIUwngNABAklDWA7A9gdygFwBYEtEHMBnKAWx3ywygDMQQAbKAJ2QFcLnzKoVUA6KAClWhKkxAkJAIxBNoODIEwCYsngBDMJmRQsagG4goUtQBMoJjYWhrEZheeQhCiRVUk2oYNovFRRrAGN4TCxZEAEAZWRJDBxJK0w1eDx8KDUjcSSoZCZmEDUA3AJs1ioMbUJokGREQwCPEiTDdJMcalpxRADwqABNb18UKjV6GpBrWxCU4nrEKHwQKhkMDFkBYBtUvBCwtMmZBDwzcs82JkIGaj4AKCA" target="_blank" rel="noreferrer">
