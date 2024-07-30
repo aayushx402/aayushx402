@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://chalisehari.com.np" target="_blank" rel="noreferrer">
-    <img src="https://github.com/aayushx402/aayushx402/blob/main/20240729_233349.png" width="400" height="auto">
+    <img src="https://github.com/aayushx402/aayushx402/blob/main/20240729_233349.png" width="800" height="auto">
   </a>
 </p>
 
