@@ -13,18 +13,19 @@
 
 <p align="left">
   <a href="https://www.github.com/aayushx402" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" style="margin-right: 10px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" alt="GitHub" />
   </a>
   <a href="http://www.instagram.com/aayushxvf" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" style="margin-right: 10px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/aayushchalese" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" style="margin-right: 10px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@aayushchalese" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" alt="YouTube" />
   </a>
 </p>
+
 
 
 ### GitHub Stats
