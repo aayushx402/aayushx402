@@ -115,6 +115,11 @@ If you'd like to support my work, you can use the following eSewa ID:
 
 [![Follow on Instagram](https://img.shields.io/badge/Follow-%40aayushxvf-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aayushxvf)
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=aayushx402&label=Profile%20Views&color=12&icon=8&pretty=false" width="300" height="auto" />
+</a>
+
+
 
 
 
