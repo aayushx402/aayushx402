@@ -85,6 +85,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aayushx402&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aayushx402&theme=dark&hide_border=false)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=aayushx402&limit=5&theme=react&combine_all_yearly_contributions=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aayushx402&theme=react&hide_border=false)<br/>
 
 
 <a href="https://visitcount.itsvg.in">
