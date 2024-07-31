@@ -110,7 +110,7 @@ If you'd like to support my work, you can use the following eSewa ID:
 
 ## Profile Views
 
-[![Profile Views](https://img.shields.io/badge/Profile%20Views-267-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushx402)
+[![Profile Views](https://img.shields.io/badge/Profile%20Views-37-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushx402)
 
 ## Follow Me
 
