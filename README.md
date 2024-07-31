@@ -80,10 +80,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayushx402&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aayushx402&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aayushx402&theme=react&utcOffset=8)
-![](https://github-readme-streak-stats.herokuapp.com/?user=aayushx402&theme=dark&hide_border=false)<br/>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aayushx402&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aayushx402&theme=dark&hide_border=false)<br/>
+
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=aayushx402&label=Profile%20Views&color=12&icon=8&pretty=false" />
