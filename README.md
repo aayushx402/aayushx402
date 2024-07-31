@@ -6,7 +6,8 @@
   <img src="https://img.shields.io/badge/GIT%20STATUS-OFFLINE-0891b2?logo=mood&style=for-the-badge&labelColor=1c1917&label=GITHUB+STATUS" />
 </a>
 
-![GitHub Status](https://img.shields.io/badge/GitHub_Status-Online-green?logo=github)
+![GitHub Status](https://img.shields.io/badge/GitHub_Status-Online-%2334D058?logo=github&style=flat-square)
+
 
 
 ### Socials
