@@ -13,16 +13,16 @@
 
 <p align="left">
   <a href="https://www.github.com/aayushx402" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-%40aayushx402-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
   </a>
   <a href="http://www.instagram.com/aayushxvf" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-%40aayushxvf-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/aayushchalese" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%40aayushchalese-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@aayushchalese" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-%40aayushchalese-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />
   </a>
 </p>
 
