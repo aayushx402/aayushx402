@@ -13,16 +13,16 @@
 
 <p align="left">
   <a href="https://www.github.com/aayushx402" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" style="margin-right: 10px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-%40aayushx402-181717?style=flat-square&logo=github&logoColor=white" width="32" height="32" alt="GitHub" />
   </a>
   <a href="http://www.instagram.com/aayushxvf" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" style="margin-right: 10px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%40aayushxvf-E4405F?style=flat-square&logo=instagram&logoColor=white" width="32" height="32" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/aayushchalese" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" style="margin-right: 10px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%40aayushchalese-0077B5?style=flat-square&logo=linkedin&logoColor=white" width="32" height="32" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@aayushchalese" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-%40aayushchalese-FF0000?style=flat-square&logo=youtube&logoColor=white" width="32" height="32" alt="YouTube" />
   </a>
 </p>
 
