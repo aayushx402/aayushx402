@@ -13,13 +13,6 @@
 
 <p align="left"><img src="https://raw.githubusercontent.com/aayushx402/aayushx402/main/github-metrics.svg" /></p>
 
-## 🔭 I'm Currently Working On
-
-- 🚀 **Exploring New Projects:** Diving into innovative ideas and building exciting applications.
-- 🛠️ **Crafting My Dotfiles:** Personalizing my development environment for optimal productivity.
-- 🖥️ **Optimizing My Linux Configuration:** Tuning my system for a smooth and efficient workflow.
-- 🦀 **Sharpening My Rust Skills:** Enhancing my knowledge and expertise in the Rust programming language.
-
 <h2>👩‍💻 Check Out What I'm Currently Working On</h2>
 
 <ul>
