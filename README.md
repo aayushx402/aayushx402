@@ -101,11 +101,6 @@ If you'd like to support my work, you can use the following eSewa ID:
 
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
-## Follow Me
-
-[![Follow on Instagram](https://img.shields.io/badge/Follow-%40aayushxvf-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aayushxvf)
-
-
 
 
 
