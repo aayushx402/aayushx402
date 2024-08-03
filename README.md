@@ -4,7 +4,6 @@
 
 <img src="https://img.shields.io/badge/GIT%20STATUS-ONLINE-0891b2?logo=mood&style=for-the-badge&labelColor=1c1917&label=GITHUB+STATUS" />
 
-
 ### Socials
 
 <p align="left">
