@@ -65,18 +65,11 @@
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ## 📬 How to reach me:
-- [➵ Reddit](https://www.reddit.com/user/aayush-le)
-- [➵ Discord](https://discord.gg/Qg8chAeJmZ)
-- [➵ Instagram](https://www.instagram.com/aayushxvf)
-- [➵ Website](https://chalisehari.com.np)
-
-## 📬 How to reach me:
 
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/aayush-le)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Qg8chAeJmZ)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aayushxvf)
 [![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://chalisehari.com.np)
-
 
 ## 📊 GitHub Stats
 
