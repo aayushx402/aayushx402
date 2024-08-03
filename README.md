@@ -83,10 +83,6 @@
 
 ## Support:
 
-[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/aayushchalise)
-
-[![Support via PayPal](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png)](mailto:aayushchalise8@gmail.com)
-
 <a href="https://esewa.com.np/#/make_payment/BALTXN/Fund%20Transfer">
     <img src="https://github.com/aayushx402/Linux-Background/blob/main/eswa/732-7320315_esewa-logo-hd-png-download-removebg-preview.png" alt="eSewa" width="150" height="auto">
 </a>
