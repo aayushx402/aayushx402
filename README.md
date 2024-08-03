@@ -98,12 +98,10 @@
 <a href="https://esewa.com.np/#/make_payment/BALTXN/Fund%20Transfer">
     <img src="https://github.com/aayushx402/Linux-Background/blob/main/eswa/732-7320315_esewa-logo-hd-png-download-removebg-preview.png" alt="eSewa" width="150" height="auto">
 </a>
-<p> If you'd like to support my work, you can use the following <strong>eSewa & Khalti ID:</strong> </p>
-If you'd like to support my work, you can use the following eSewa & Khalti ID:
+
+**<span style="color:#4CAF50; font-size:18px;">If you'd like to support my work, you can use the following eSewa & Khalti ID:: 9866561621</span>**
 
 **<span style="color:#4CAF50; font-size:18px;">eSewa & Khalti ID: 9866561621</span>**
-
-**<span style="color:#88C0D0; font-size:18px;">eSewa & Khalti ID: 9866561621</span>**
 
 ## 🤝 Connect with me:
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aayushxvf)
