@@ -35,7 +35,7 @@
   </li>
   <li>
     <a href="https://github.com/aayushx402/i3-CatDotfiles"><strong>🎨 I3-Dotfiles</strong></a><br>
-    My i3 window manager configuration with a custom Catppuccin theme.
+    My i3 window manager configuration with a custom Catppuccin & Nord theme
   </li>
   <li>
     <a href="https://github.com/aayushx402/sway"><strong>🎨 Sway-Dotfiles</strong></a><br>
