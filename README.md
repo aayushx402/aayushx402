@@ -99,8 +99,8 @@
 </a>
 
 **<span style="color:#88C0D0; font-size:18px;">If you'd like to support my work, you can use the following eSewa & Khalti ID : 9866561621</span>**
-<li>
-    If you'd like to support my work, you can use the following eSewa & Khalti ID :<a href="https://esewa.com.np/#/make_payment/BALTXN/Fund%20Transfer"><strong>✨ 9866561621</strong></a><br>
+
+**<span style="color:#88C0D0; font-size:18px;">If you'd like to support my work, you can use the following eSewa & Khalti ID :</span>**<a href="https://esewa.com.np/#/make_payment/BALTXN/Fund%20Transfer"><strong> 9866561621 ✨</strong></a><br>
   </li>
 
 ## 🤝 Connect with me:
