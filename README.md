@@ -71,6 +71,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aayushxvf)
 [![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://chalisehari.com.np)
 [![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://chalisehari.com.np)
+[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=web&logoColor=white)](https://chalisehari.com.np)
 
 ## 📊 GitHub Stats
 
