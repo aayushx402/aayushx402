@@ -101,9 +101,6 @@
 
 **<span style="color:#4CAF50; font-size:18px;">If you'd like to support my work, you can use the following eSewa & Khalti ID : 9866561621</span>**
 
-**<span style="color:#4CAF50; font-size:18px;">If you'd like to support my work, you can use the following eSewa & Khalti ID: 9866561621 💚✨</span>**
-
-
 ## 🤝 Connect with me:
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aayushxvf)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayushchalese)
