@@ -87,6 +87,8 @@
 
 [![PayPal](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png)](https://www.paypal.com/mep/dashboard)
 
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg)](mailto:aayushchalise8@gmail.com)
+
 <a href="https://esewa.com.np/#/make_payment/BALTXN/Fund%20Transfer">
     <img src="https://github.com/aayushx402/Linux-Background/blob/main/eswa/732-7320315_esewa-logo-hd-png-download-removebg-preview.png" alt="eSewa" width="150" height="auto">
 </a>
