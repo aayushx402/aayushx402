@@ -90,7 +90,7 @@
 
 ## Support:
 
-<a href="https://web.khalti.com/#/wallet/offer-fund">
+<a href="https://web.khalti.com/">
     <img src="https://github.com/aayushx402/Linux-Background/blob/main/eswa/khalti-logo-F0B049E67E-seeklogo.com.png" alt="eSewa" width="150" height="auto">
 </a>
 <br>
