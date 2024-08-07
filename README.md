@@ -87,6 +87,11 @@
 </br>
 [![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://chalisehari.com.np)
 
+  <li>
+    <a href="https://www.reddit.com/user/aayush-le"><strong>Reddit</strong></a><br>
+  </li>
+</ul>
+
 
 ## 📊 GitHub Stats
 
