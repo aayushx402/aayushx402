@@ -102,10 +102,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayushx402&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aayushx402&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aayushx402&theme=react&utcOffset=8)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aayushx402&limit=5&theme=react&combine_all_yearly_contributions=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aayushx402&theme=react&hide_border=false)<br/>
 
 
