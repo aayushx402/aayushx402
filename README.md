@@ -74,6 +74,48 @@
 ![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  </a>
+</p>
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  </a>
+</p>
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Bash-0078D6?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Vim%20Script-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim Script">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Shell%20Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
+  </a>
+</p>
+
 ## 📬 How to reach me:
 
 <p align="center">
