@@ -101,7 +101,11 @@
   </a>
 </p>
 
-## 📬 How to reach me:
+<!--- links --->
+
+<p align="center">
+  <strong style="color: #ff4500; font-size: 24px;">📬 How to reach me:</strong>
+</p>
 
 <p align="center">
   <a href="https://www.reddit.com/user/aayush-le">
