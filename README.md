@@ -55,7 +55,7 @@
 
 ## 🧰 Technical Skills
 <p align="center">
-  <strong>## 🧰 Technical Skills</strong>
+  <strong>🧰 Technical Skills</strong>
 </p>
 
 <p align="center">
