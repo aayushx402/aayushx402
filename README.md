@@ -103,24 +103,16 @@
 
 <!--- links --->
 
-<p align="center">
-  <strong style="color: #ff4500; font-size: 24px;">📬 How to reach me:</strong>
-</p>
+##📬 How to reach me:
 
-<p align="center">
-  <a href="https://www.reddit.com/user/aayush-le">
-    <img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
-  </a>
-  <a href="https://discord.gg/Qg8chAeJmZ">
-    <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://www.instagram.com/aayushxvf">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://chalisehari.com.np">
-    <img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=github&logoColor=white" alt="Website">
-  </a>
-</p>
+[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/aayush-le)
+</br>
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Qg8chAeJmZ)
+</br>
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aayushxvf)
+</br>
+[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://chalisehari.com.np)
+
 
 ## 📊 GitHub Stats
 
