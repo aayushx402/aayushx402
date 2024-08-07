@@ -81,16 +81,16 @@
 
 <ul>
   <li>
-    <a href="https://www.reddit.com/user/aayush-le"><strong>Reddit➵</strong></a><br>
+    <a href="https://www.reddit.com/user/aayush-le"><strong>Reddit ➵</strong></a><br>
   </li>
    <li>
-    <a href="https://discord.gg/Qg8chAeJmZ"><strong>Discord➵</strong></a><br>
+    <a href="https://discord.gg/Qg8chAeJmZ"><strong>Discord ➵</strong></a><br>
   </li>
   <li>
-    <a href="https://www.instagram.com/aayushxvf"><strong>Instagram➵</strong></a><br>
+    <a href="https://www.instagram.com/aayushxvf"><strong>Instagram ➵</strong></a><br>
   </li>
   <li>
-    <a href="https://chalisehari.com.np"><strong>Website➵</strong></a><br>
+    <a href="https://chalisehari.com.np"><strong>Website ➵</strong></a><br>
   </li>
 </ul>
 
