@@ -81,6 +81,24 @@
 ## 📜 Vim Script:
 ![Vim Script](https://img.shields.io/badge/-Vim%20Script-019733?style=for-the-badge&logo=vim&logoColor=white)
 
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+</br>
+
+![Styled Components](https://img.shields.io/badge/styled--components-000000?style=for-the-badge&logo=styled-components&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white)
+</br>
+
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+</br>
+
+![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Vim Script](https://img.shields.io/badge/-Vim%20Script-000000?style=for-the-badge&logo=vim&logoColor=white)
+![Shell Script](https://img.shields.io/badge/-Shell%20Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 <!--- links --->
 
