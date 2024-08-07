@@ -74,8 +74,17 @@
 ## 📬 How to reach me:
 
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/aayush-le)
+
+</br>
+
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Qg8chAeJmZ)
+
+</br>
+
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aayushxvf)
+
+</br>
+
 [![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://chalisehari.com.np)
 
 ## 📊 GitHub Stats
