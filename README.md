@@ -59,6 +59,9 @@
 
 ## 🧰 Technical Skills
 
+## 🦀 Rust:
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white&logoWidth=20)
+
 ## 🌐 HTML:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
