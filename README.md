@@ -2,7 +2,9 @@
   <a href="https://chalisehari.com.np" target="_blank" rel="noreferrer"><img src="https://github.com/aayushx402/Linux-Background/blob/main/logo/20240804_005103.png"></a>
 </p>
 
+<p align="center">
 <img src="https://img.shields.io/badge/GIT%20STATUS-ONLINE-0891b2?logo=mood&style=for-the-badge&labelColor=1c1917&label=GITHUB+STATUS" />
+</p>
 
 ### Socials
 
