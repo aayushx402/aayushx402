@@ -55,55 +55,29 @@
 
 <!--- skills --->
 
-<p align="center">
-  <strong style="color: #ff4500; font-size: 24px;">🧰 Technical Skills</strong>
-</p>
+## 🧰 Technical Skills
 
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  </a>
-</p>
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  </a>
-</p>
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Bash-0078D6?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Vim%20Script-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim Script">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Shell%20Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
-  </a>
-</p>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+</br>
+
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+</br>
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</br>
+
+![Bash](https://img.shields.io/badge/-Bash-0078D6?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Vim Script](https://img.shields.io/badge/-Vim%20Script-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <!--- links --->
 
-##📬 How to reach me:
+## 📬 How to reach me:
 
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/aayush-le)
 </br>
