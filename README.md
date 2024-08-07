@@ -54,6 +54,9 @@
 - 🐧 **Linux:** Deepening my understanding of the Linux operating system, command-line tools, and system administration.
 
 ## 🧰 Technical Skills
+<p align="center">
+  <strong>## 🧰 Technical Skills</strong>
+</p>
 
 <p align="center">
   <a href="#">
