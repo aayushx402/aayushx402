@@ -58,6 +58,9 @@
 <p align="center">
   <strong>🧰 Technical Skills</strong>
 </p>
+<p align="center">
+  <strong style="color: #ff4500; font-size: 24px;">🧰 Technical Skills</strong>
+</p>
 
 <p align="center">
   <a href="#">
