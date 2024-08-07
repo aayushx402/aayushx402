@@ -53,7 +53,7 @@
 - 🦀 **Rust:** Exploring systems programming and building efficient applications with this powerful language.
 - 🐧 **Linux:** Deepening my understanding of the Linux operating system, command-line tools, and system administration.
 
-//skills
+<!--- skills --->
 
 <p align="center">
   <strong>🧰 Technical Skills</strong>
